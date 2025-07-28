@@ -137,7 +137,7 @@
   </section>
 
   <footer>
-    &copy; 2025 Julia Manning. Fish photo editing with a scientific touch.
+    &copy; 2025 Julia Manning. Fish photo editing by scientists, for scientists.
   </footer>
 </body>
 </html>
