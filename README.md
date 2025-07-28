@@ -128,7 +128,7 @@
   <section id="contact">
     <h2>Get in Touch</h2>
     <p>Interested in working together? I'd love to hear from you! Email me at <strong>julia@specimensstudio.com or send me a message below:
-    <form action="https://formspree.io/f/your-form-id" method="POST">
+    <form action="[https://formspree.io/f/your-form-id](https://formspree.io/f/mrblkyer)" method="POST">
       <label>Your Name:<br><input type="text" name="name" required></label>
       <label>Your Email:<br><input type="email" name="email" required></label>
       <label>Message:<br><textarea name="message" rows="5" required></textarea></label>
