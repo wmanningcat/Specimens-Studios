@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -112,8 +112,8 @@
 </head>
 <body>
   <header>
-    <img src="logo.png" alt="Specimens Studios Logo">
-    <h1>Specimens Studios Fish Editing Services</h1>
+
+    <h1>Specimens Studio Fish Editing Services</h1>
     <p>Professional editing and background removal for ichthyology images</p>
   </header>
 
@@ -200,11 +200,4 @@
   <footer>
     &copy; 2025 Julia Manning. Fish photo editing by scientists, for scientists.
   </footer>
-</body>
-</html>
 
-  <footer>
-    &copy; 2025 Julia Manning. Fish photo editing by scientists, for scientists.
-  </footer>
-</body>
-</html>
