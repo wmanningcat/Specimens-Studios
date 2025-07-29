@@ -19,6 +19,12 @@
       text-align: center;
       box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
     }
+    header img {
+      width: 100px;
+      height: auto;
+      display: block;
+      margin: 0 auto 1rem auto;
+    }
     header h1 {
       margin: 0;
       font-size: 2.5rem;
@@ -99,6 +105,7 @@
 </head>
 <body>
   <header>
+    <img src="logo.png" alt="Specimens Studios Logo">
     <h1>Specimens Studios Fish Editing Services</h1>
     <p>Professional editing and background removal for ichthyology images</p>
   </header>
@@ -188,4 +195,3 @@
   </footer>
 </body>
 </html>
-
