@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -118,13 +118,22 @@
   <section>
     <h2>Sample Portfolio</h2>
     <div class="portfolio">
-      <img src="Fenerbahce_sp.JPG" alt="Before edit of Fenerbahce sp">
-      <img src="Congopanchax_brichardi.JPG" alt="After edit of Congopanchax brichardi">
-      <img src="Pantodon_bucholzi.jpg" alt="Before edit of Pantodon bucholzi">
-      <img src="Pareutropius_debauwi.jpg" alt="After edit of Pareutropius debauwi">
+      <img src="Fenerbahce_sp.JPG" alt="Fenerbahce sp" title="Fenerbahce sp">
+      <img src="Microctenopoma_ansorgii.pdf" alt="Microctenopoma ansorgii" title="Microctenopoma ansorgii">
+      <img src="Pantodon_bucholzi.jpg" alt="Pantodon bucholzi" title="Pantodon bucholzi">
+      <img src="Pareutropius_debauwi.jpg" alt="Pareutropius debauwi" title="Pareutropius debauwi">
     </div>
   </section>
 
+    <section>
+    <h2>Finished Plates</h2>
+    <div class="portfolio">
+      <img src="chichlidsplate.pdf" alt="Figure Plate 1" title="Figure Plate 1">
+      <img src="killiesplate.pdf" alt="Figure Plate 2" title="Figure Plate 2"> 
+      <img src="idkplate.pdf" alt="Figure Plate 3" title="Figure Plate 3">
+  
+    </div>
+      
   <section id="contact">
     <h2>Get in Touch</h2>
     <p>Interested in working together? I'd love to hear from you! Email me at <strong>julia@specimensstudio.com</strong> or send me a message below:</p>
