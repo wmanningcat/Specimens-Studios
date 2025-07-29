@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -35,7 +35,7 @@
     }
     section {
       padding: 3rem 1rem;
-      max-width: 900px;
+      max-width: 1000px;
       margin: auto;
     }
     h2 {
@@ -53,19 +53,19 @@
     .portfolio {
       display: flex;
       flex-wrap: wrap;
-      gap: 1.5rem;
+      gap: 2rem;
       justify-content: center;
       margin-top: 2rem;
     }
     .portfolio img {
       width: 100%;
-      max-width: 300px;
-      border-radius: 12px;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+      max-width: 420px;
+      border-radius: 8px;
+      box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
       transition: transform 0.2s ease;
     }
     .portfolio img:hover {
-      transform: scale(1.03);
+      transform: scale(1.04);
     }
     footer {
       text-align: center;
@@ -89,7 +89,8 @@
     .button:hover {
       background-color: #1d4ed8;
     }
-    form input, form textarea {
+    form input,
+    form textarea {
       width: 100%;
       padding: 0.75rem;
       margin-top: 0.25rem;
@@ -125,7 +126,7 @@
   <section>
     <h2>Sample Portfolio</h2>
     <div class="portfolio">
-      <img src="Fenerbahce_sp-1.png" alt="Fenerbahce sp" title="Fenerbahce sp">
+      <img src="Fenerbahce_sp.JPG" alt="Fenerbahce sp" title="Fenerbahce sp">
       <img src="Microctenopoma_ansorgii-1.png" alt="Microctenopoma ansorgii" title="Microctenopoma ansorgii">
       <img src="Pantodon_bucholzi.jpg" alt="Pantodon bucholzi" title="Pantodon bucholzi">
       <img src="Pareutropius_debauwi.jpg" alt="Pareutropius debauwi" title="Pareutropius debauwi">
@@ -143,7 +144,7 @@
 
   <section>
     <h2>About Me</h2>
-    <p>I'm Julia, a researcher the American Museam of Natural History's ichthyology department. I specialize in fish in the Cuvette Centrale of the Congo River, but all freshwater aquafauna excites me! I am an ichthyology enthusiast and image editor with years of experience working on fish specimen photography. So much of my time as a researcher has been taken up by edtiting hundreds of specimen images, so you can hand off this work to me for a reasonable cost to save time (and your sanity) My passion lies in helping scientists present their work clearly and beautifully. From background removal to full plate assembly, I bring both scientific accuracy and visual clarity to every edit I do.</p>
+    <p>I'm Julia, a researcher at the American Museum of Natural History's ichthyology department. I specialize in fish in the Cuvette Centrale of the Congo River, but all freshwater aquafauna excites me! I am an ichthyology enthusiast and image editor with years of experience working on fish specimen photography. So much of my time as a researcher has been taken up by editing hundreds of specimen images, so you can hand off this work to me for a reasonable cost to save time (and your sanity). My passion lies in helping scientists present their work clearly and beautifully. From background removal to full plate assembly, I bring both scientific accuracy and visual clarity to every edit I do.</p>
   </section>
 
   <section>
@@ -180,7 +181,7 @@
 
   <section id="contact">
     <h2>Get in Touch</h2>
-    <p>Interested in working together? I'd love to hear from you! Email me at <strong>julia@specimensstudio.com</strong> or send me a message below:</p>
+    <p>Interested in working together? I'd love to hear from you! Email me at <strong>julia@specimensstudio.com</strong>, DM me on Instagram <strong>@specimensstudio</strong>, or send me a message below:</p>
     <form action="https://formspree.io/f/mrblkyer" method="POST">
       <input type="hidden" name="_next" value="https://wmanningcat.github.io/Specimens-Studios/thankyou.html">
       <label>Your Name:<br><input type="text" name="name" required></label>
