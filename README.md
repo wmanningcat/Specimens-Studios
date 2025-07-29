@@ -125,7 +125,7 @@
   <section>
     <h2>Sample Portfolio</h2>
     <div class="portfolio">
-      <img src="Fenerbahce_sp.JPG" alt="Fenerbahce sp" title="Fenerbahce sp">
+      <img src="Fenerbahce_sp-1.png" alt="Fenerbahce sp" title="Fenerbahce sp">
       <img src="Microctenopoma_ansorgii-1.png" alt="Microctenopoma ansorgii" title="Microctenopoma ansorgii">
       <img src="Pantodon_bucholzi.jpg" alt="Pantodon bucholzi" title="Pantodon bucholzi">
       <img src="Pareutropius_debauwi.jpg" alt="Pareutropius debauwi" title="Pareutropius debauwi">
