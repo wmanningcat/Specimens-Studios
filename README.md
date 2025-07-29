@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -118,24 +118,27 @@
   <section>
     <h2>Sample Portfolio</h2>
     <div class="portfolio">
-      <img src="before1.jpg" alt="Before Edit">
-      <img src="after1.jpg" alt="After Edit">
-      <img src="before2.jpg" alt="Before Edit">
-      <img src="after2.jpg" alt="After Edit">
+      <img src="Fenerbahce_sp.JPG" alt="Before edit of Fenerbahce sp">
+      <img src="Congopanchax_brichardi.JPG" alt="After edit of Congopanchax brichardi">
+      <img src="Pantodon_bucholzi.jpg" alt="Before edit of Pantodon bucholzi">
+      <img src="Pareutropius_debauwi.jpg" alt="After edit of Pareutropius debauwi">
     </div>
   </section>
 
   <section id="contact">
     <h2>Get in Touch</h2>
-    <p>Interested in working together? I'd love to hear from you! Email me at <strong>julia@specimensstudio.com or send me a message below:
-    <form action="[https://formspree.io/f/your-form-id](https://formspree.io/f/mrblkyer)" method="POST">
+    <p>Interested in working together? I'd love to hear from you! Email me at <strong>julia@specimensstudio.com</strong> or send me a message below:</p>
+    <form action="https://formspree.io/f/mrblkyer" method="POST">
+      <input type="hidden" name="_next" value="https://wmanningcat.github.io/Specimens-Studios/thankyou.html">
       <label>Your Name:<br><input type="text" name="name" required></label>
       <label>Your Email:<br><input type="email" name="email" required></label>
       <label>Message:<br><textarea name="message" rows="5" required></textarea></label>
       <button class="button" type="submit">Send Message</button>
     </form>
-
+  </section>
 
   <footer>
     &copy; 2025 Julia Manning. Fish photo editing by scientists, for scientists.
   </footer>
+</body>
+</html>
