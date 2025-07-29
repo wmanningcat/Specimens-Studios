@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -134,10 +134,8 @@
       <label>Message:<br><textarea name="message" rows="5" required></textarea></label>
       <button class="button" type="submit">Send Message</button>
     </form>
-  </section>
+
 
   <footer>
     &copy; 2025 Julia Manning. Fish photo editing by scientists, for scientists.
   </footer>
-</body>
-</html>
