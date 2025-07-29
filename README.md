@@ -150,7 +150,7 @@
 
   <section>
     <h2>About Me</h2>
-    <p>I'm Julia, a researcher at the American Museum of Natural History's ichthyology department. I specialize in fish in the Cuvette Centrale of the Congo River, but all freshwater aquafauna excites me! I am an ichthyology enthusiast and image editor with years of experience working on fish specimen photography. So much of my time as a researcher has been taken up by editing hundreds of specimen images, so you can hand off this work to me for a reasonable cost to save time (and your sanity). My passion lies in helping scientists present their work clearly and beautifully. From background removal to full plate assembly, I bring both scientific accuracy and visual clarity to every edit I do.</p>
+    <p>I'm Julia, a student researcher at the American Museum of Natural History's Ichthyology department. I specialize in fish from the Cuvette Centrale of the Congo River.I am an ichthyology enthusiast and image editor with years of experience working on fish specimen photography. All of my work is done by hand, and without the use of AI. My passion lies in helping scientists present their work clearly and beautifully. From background removal to full plate assembly, I bring both scientific accuracy and visual clarity to every edit I do.</p>
   </section>
 
   <section>
